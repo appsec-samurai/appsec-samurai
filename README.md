@@ -1,4 +1,5 @@
 ### Hi there 👋
+**An Application Security Engineer by Profession, Pythonista by :heart: ardent for $ecurity**
 
 <!--
 **appsec-samurai/appsec-samurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
