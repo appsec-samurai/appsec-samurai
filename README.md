@@ -1,4 +1,5 @@
 ### Hi there 👋
+![github_dp](https://github.com/appsec-samurai/appsec-samurai/assets/40656963/8ae1f604-ca4e-4353-823e-ca15e7d0efdc)
 
 <!--
 **appsec-samurai/appsec-samurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![comp_1](https://github.com/appsec-samurai/appsec-samurai/assets/40656963/64396893-6355-45fc-bc40-436f8330d356)
+
+
