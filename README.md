@@ -1,5 +1,4 @@
 ### Hi there 👋
-**An Application Security Engineer by Profession, Pythonista by :heart: ardent for $ecurity**
 
 <!--
 **appsec-samurai/appsec-samurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![comp_1](https://github.com/appsec-samurai/appsec-samurai/assets/40656963/64396893-6355-45fc-bc40-436f8330d356)
