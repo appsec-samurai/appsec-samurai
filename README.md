@@ -1,5 +1,6 @@
 ### Hi there 👋
-![github_dp](https://github.com/appsec-samurai/appsec-samurai/assets/40656963/36f50c94-eaa8-45b2-97f9-741ddbff648b)
+![github_dp](https://github.com/appsec-samurai/appsec-samurai/assets/40656963/fcbb1db5-dff1-4a93-a28c-ec1b32dfbe9c)
+
 
 
 <!--
